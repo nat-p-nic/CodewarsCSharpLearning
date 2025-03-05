@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CodewarsC#
+/Codewars.Library/bin/Debug/net8.0
+/Codewars.Library/obj
+/Codewars.Tests/bin/Debug/net8.0
+/Codewars.Tests/obj
