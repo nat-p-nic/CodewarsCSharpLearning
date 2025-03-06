@@ -1,6 +1,6 @@
 using Kata.Library;
 
-namespace Kata.Tests
+namespace Codewars.Tests
 {
     public class DecoadeTheMorseCoceAdvanced
     {
