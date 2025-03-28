@@ -1,9 +1,9 @@
-﻿using Kata.Library;
+﻿using Codewars.Library;
 
 namespace Codewars.Tests
 {
     [TestFixture]
-    public class BattleshipFieldValidator
+    public class BattleshipFieldValidatorTests
     {
         [Test]
         public void TestCase()

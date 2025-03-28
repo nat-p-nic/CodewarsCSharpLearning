@@ -1,6 +1,8 @@
-﻿namespace Codewars.Tests
+﻿using Codewars.Library;
+
+namespace Codewars.Tests
 {
-    public class SolutionTest
+    public class ParseIntReloadedTests
     {
         [Test]
         public void FixedTests1()

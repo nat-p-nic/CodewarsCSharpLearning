@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace Kata.Library
+namespace Codewars.Library
 {
     public class MorseCodeDecoder
     {

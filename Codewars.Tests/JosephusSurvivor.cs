@@ -1,5 +1,5 @@
 ﻿
-using Kata.Library;
+using Codewars.Library;
 
 namespace Codewars.Tests
 {

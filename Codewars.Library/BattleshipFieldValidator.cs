@@ -1,4 +1,4 @@
-﻿namespace Kata.Library
+﻿namespace Codewars.Library
 {
     public class BattleshipField
     {

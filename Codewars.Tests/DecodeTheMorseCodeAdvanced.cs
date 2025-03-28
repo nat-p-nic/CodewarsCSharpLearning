@@ -1,8 +1,8 @@
-using Kata.Library;
+using Codewars.Library;
 
 namespace Codewars.Tests
 {
-    public class DecoadeTheMorseCoceAdvanced
+    public class DecoadeTheMorseCodeAdvancedTests
     {
         [Test]
         public void TestExampleFromDescription()

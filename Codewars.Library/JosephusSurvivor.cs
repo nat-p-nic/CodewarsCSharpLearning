@@ -1,4 +1,4 @@
-﻿namespace Kata.Library
+﻿namespace Codewars.Library
 {
     public static class JosephusSurvivor
     {
